@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+
+
+}
+
+.temple{
+    height: 100%;
+    width: 100%;
+    background-image: url(temple.avif);
+    background-size: cover;
+    background-position: center;
+
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}
+
+h1{
+    text-align: center;
+    color: rgb(18, 218, 245);
+    font-size:100px;
+    font-family: monospace;
+}
